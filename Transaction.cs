@@ -16,7 +16,6 @@ namespace SupportBank
             From = from;
             To = to;
             Id = id;
-
         }   
     }
 }

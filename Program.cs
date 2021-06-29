@@ -16,14 +16,12 @@ namespace SupportBank
 
             for(int i = 1; i < file.Length; i++) {
                 var cells = file[i].Split(",");
-                int amountFloat = int.Parse(cells[4]);
+                float amountFloat = float.Parse(cells[4]);
 
-                var transaction = new Transaction(cells[0], amountInt, cells[3], cells[1], cells[2], i);
+                var transaction = new Transaction(cells[0], amountFloat, cells[3], cells[1], cells[2], i);
 
 
-                cells.push(
-                    new Transaction {}
-                )
+                cells.push(transaction)
             }
           
         }
