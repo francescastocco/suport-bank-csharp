@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8Fsp2lO2G7HhXmHQtXXHmgxBnA6cAdyLbeZJlq6EadYtqYiS8LK6hy9tj2CW0aHh9UcSMUHSXdDylp/eQtlPg==",
+  "success": true,
+  "projectFilePath": "C:\\Training\\C#\\SupportBank\\SupportBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frasto\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
